@@ -1,0 +1,2 @@
+This is my first try uploading txt file by myself.
+This line is for Assignment using Git Bash push to the main repository.
